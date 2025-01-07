@@ -15,7 +15,7 @@ profile_picture:
   <a href="https://hyundoil.tistory.com/" target="_blank">My Skill Blog</a> <br>
 </p>
 <p>
-  <strong>For any suggestion, please contact me with <a href="mailto:khw11044@gmail.com">Email</a>.</strong><br>
+  <strong>For any suggestion, please contact me with <a href="mailto:fkghkscjf@gmail.com">Email</a>.</strong><br>
 </p>
 <br>
 <br>
