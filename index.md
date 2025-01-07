@@ -8,7 +8,7 @@ profile_picture:
   <strong>Info</strong><br>
 </p>
 <p>
-   Master's Graduate <br>from the <a href="http://pr.korea.ac.kr/" target="_blank">Pattern Recognition & Machine Learning (PRML) Laboratory</a> at <a href="https://www.korea.ac.kr/">Korea University</a>, <br> currently seeking job opportunities.
+  안녕하세요 라환철입니다. 
 </p> 
 <p>
   <a href="/assets/pdf/resume.pdf" target="_blank">이력서</a> / <a href="/assets/pdf/CV_HyunWoo.pdf" target="_blank">CV</a> / <a href="/assets/pdf/portfolio.pdf" target="_blank">Portfolio</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
