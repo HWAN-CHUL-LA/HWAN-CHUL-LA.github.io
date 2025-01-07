@@ -2,8 +2,8 @@
 layout: work
 slug: /work
 
-title3: Project
-items3:
+title: Project
+items:
   - title: <a href="/assets/pdf/project/AICadi.pdf" target="_blank/">AI CADI:모바일 로봇과 AI를 활용한 캐디 로봇</a>
     image:
       src: /assets/img/work/pj_aicadi.png
