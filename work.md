@@ -10,7 +10,7 @@ items:
       alt: mh
     description: | 
       <br> <strong> #Storagy #XYZ #Ros2 #SLAM #2D/3D Human Pose Estimation #Event Detection #SAM2 #Depth-Anything #FastAPI</strong>
-      <br> 2024년, 12월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
+      <br> 2024년, 12월 / <strong>라환철</strong>, 김태현, 박성우, 김현우, 이지헌.
       <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>
 
 
@@ -20,7 +20,7 @@ items:
       alt: mh
     description: | 
       <br> <strong> #Aris #XYZ #LLM #LoRA #Unsloth #RAG #YoloV11 #Face Recognition #Image Retriver #HuggingFace #Whisper #FastAPI</strong>
-      <br> 2024년, 11월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
+      <br> 2024년, 11월 / <strong>라환철</strong>, 김태현, 박성우, 김현우, 이지헌.
       <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>
 
 
