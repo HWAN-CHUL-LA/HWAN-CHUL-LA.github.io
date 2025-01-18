@@ -34,9 +34,9 @@ footer:
     # - type: facebook
     #   name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: https://www.linkedin.com/in/hyunwoo-kim-35a441205/
+    #- type: linkedin
+    #  name: LinkedIn
+    #  link: https://www.linkedin.com/in/hyunwoo-kim-35a441205/
     - type: github
       name: GitHub
       link: https://github.com/HWAN-CHUL-LA

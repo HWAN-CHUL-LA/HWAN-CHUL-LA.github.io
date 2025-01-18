@@ -8,11 +8,11 @@ profile_picture:
   <strong>Info</strong><br>
 </p>
 <p>
-  안녕하세요 라환철입니다. 
+  안녕하세요 로봇공학자 라환철입니다. 
 </p> 
 <p>
-  <a href="/assets/pdf/resume.pdf" target="_blank">이력서</a> / <a href="/assets/pdf/CV_HyunWoo.pdf" target="_blank">CV</a> / <a href="/assets/pdf/portfolio.pdf" target="_blank">Portfolio</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
-  <a href="https://hyundoil.tistory.com/" target="_blank">My Skill Blog</a> <br>
+ <a href="https://github.com/HWAN-CHUL-LA" target="_blank">Github</a> <br>
+  <a href="https://made-by-c.tistory.com/" target="_blank">My Skill Blog</a> <br>
 </p>
 <p>
   <strong>For any suggestion, please contact me with <a href="mailto:fkghkscjf@gmail.com">Email</a>.</strong><br>
@@ -37,6 +37,4 @@ profile_picture:
 <hr id="short-bio-divider"> <!-- 가로선 추가 -->
 <p>
 Dec. 2024 Completed Robot&AI training program organized by XYZ&PinkLAB&ADDinEDU.<br>
-Aug. 2024 Completed AI training program organized by KT.<br>
-Jan. 2024 One paper on my paper got accepted to Pattern Recognition 2024!<br>
 </p>
